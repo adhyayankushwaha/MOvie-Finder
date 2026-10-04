@@ -1,0 +1,6 @@
+{
+  "name": "CineScope - TMDB Movie Explorer",
+  "description": "Browse trending films, search movies, filter by genre, and view trailers with the TMDB API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
